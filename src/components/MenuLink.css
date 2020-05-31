@@ -1,0 +1,10 @@
+
+.navbar-default .navbar-nav > li >.active{
+    background-color: #000!important;
+    color:#fff!important;
+}
+
+.nav-pills > li > a.active{
+    background-color: #000!important;
+    color:#fff!important;
+}
